@@ -1,0 +1,3 @@
+[submodule "Assets/ucp.statemachine"]
+	path = Assets/ucp.statemachine
+	url = git@github.com:everystudio/ucp.statemachine.git
